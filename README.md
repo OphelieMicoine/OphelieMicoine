@@ -1,3 +1,4 @@
+# Me, Myself and I
 - 👋 Hi, I’m @OphelieMicoine
 - 👀 I’m interested in dancing, video games, travel, tech
 - 🌱 I’m currently learning SQL & BigQuery
